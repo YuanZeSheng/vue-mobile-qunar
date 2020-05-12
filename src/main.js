@@ -10,6 +10,7 @@ import router from './router'
 import store from './store/store';
 import api from './api/api.js'  
 import filter from "./filter/filter.js"
+import './assets/iconfont.css'
 // 公共样式表
 import './assets/common.less'
 
